@@ -45,7 +45,7 @@ To design a **consolidated Power BI sales performance dashboard** that:
 - `Stores` → store info (Region, Country, Open Date)  
 - `ExchangeRates` → currency conversion data  
 ---
-![](My_Model.png)
+![](my_model1.png)
 ---
 **Relationships:**  
 - Sales[CustomerKey] → Customers[CustomerKey]
